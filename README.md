@@ -42,22 +42,22 @@ This project focuses on analyzing sexual assault data in India from 2001 to 2013
 
 ## Insights Highlighted
 
-**High-Risk Victim Age Groups:
+**High-Risk Victim Age Groups:**
 
 Victims aged 18-30 years account for the majority of cases.
 
-**State-Level Severity:
+**State-Level Severity:**
 
 States like Uttar Pradesh and Madhya Pradesh report the highest cases.
 
-**Temporal Trends:
+**Temporal Trends:**
 
 Shows an upward trend in reported cases over the years.
 
-**Victims Below 18 Years:
+**Victims Below 18 Years:**
 
 Approximately 35% of victims belong to the under-18 age group.
 
-**Repeat Offending States:
+**Repeat Offending States:**
 
 Madhya Pradesh and Uttar Pradesh frequently appear at the top for total cases.
