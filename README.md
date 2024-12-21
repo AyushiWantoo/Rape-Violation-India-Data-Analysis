@@ -39,6 +39,10 @@ This project focuses on analyzing sexual assault data in India from 2001 to 2013
    ```bash
    streamlit run app.py
 
+![image](https://github.com/user-attachments/assets/41b202eb-c2ee-414b-b4e2-9f166e0ab085)
+
+![image](https://github.com/user-attachments/assets/5e2f861a-519b-4851-b9d2-3d37c61a955e)
+
 
 ## Insights Highlighted
 
