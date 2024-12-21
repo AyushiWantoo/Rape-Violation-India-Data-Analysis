@@ -32,3 +32,6 @@ This project focuses on analyzing sexual assault data in India from 2001 to 2013
    ```bash
    git clone https://github.com/<your-username>/<repository-name>.git
    cd <repository-name>
+2. Install the dependencies:
+   '``bash
+   pip install -r requirements.txt
