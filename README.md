@@ -33,5 +33,33 @@ This project focuses on analyzing sexual assault data in India from 2001 to 2013
    git clone https://github.com/<your-username>/<repository-name>.git
    cd <repository-name>
 2. Install the dependencies:
-   '``bash
+   ```bash
    pip install -r requirements.txt
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+
+
+Deployment
+The application is deployed on Streamlit Cloud and can be accessed via the following link: Deployed Streamlit App (Add your app link here)
+
+Project Structure
+yaml
+Copy code
+<repository-name>/
+├── app.py               # Main Streamlit application code
+├── requirements.txt     # Required Python dependencies
+├── Detailed Cases (Registered) sexual Assault 2001-2008.csv
+├── State wise Sexual Assault (Detailed) 1999 - 2013.csv
+├── README.md            # Project documentation
+Insights Highlighted
+High-Risk Victim Age Groups:
+Victims aged 18-30 years account for the majority of cases.
+State-Level Severity:
+States like Uttar Pradesh and Madhya Pradesh report the highest cases.
+Temporal Trends:
+Shows an upward trend in reported cases over the years.
+Victims Below 18 Years:
+Approximately 35% of victims belong to the under-18 age group.
+Repeat Offending States:
+Madhya Pradesh and Uttar Pradesh frequently appear at the top for total cases.
